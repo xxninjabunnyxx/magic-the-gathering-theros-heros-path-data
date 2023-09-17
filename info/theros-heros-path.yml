@@ -1,0 +1,18 @@
+---
+object: set
+id: d1b5d85e-f18a-4e47-8305-de8b6661cfbe
+code: thp1
+name: Theros Hero's Path
+uri: https://api.scryfall.com/sets/d1b5d85e-f18a-4e47-8305-de8b6661cfbe
+scryfall_uri: https://scryfall.com/sets/thp1
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Athp1&unique=prints
+released_at: '2013-09-27'
+set_type: memorabilia
+card_count: 7
+parent_set_code: ths
+digital: false
+nonfoil_only: true
+foil_only: false
+block_code: ths
+block: Theros
+icon_svg_uri: https://svgs.scryfall.io/sets/ths.svg?1694404800
